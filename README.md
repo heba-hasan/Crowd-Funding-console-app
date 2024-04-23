@@ -9,6 +9,7 @@ The app includes the following features:
 • Confirm password
 • Mobile phone 
 *Login
+
 2 - Projects:
 • The user can create a project fund raise campaign which contains:
 • Title
